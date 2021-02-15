@@ -14,7 +14,7 @@ use common\components\Service;
  * @property \addons\RfOnlineDoc\services\doc\CateService $cate 文档行为
  * @property \addons\RfOnlineDoc\services\doc\TemplateService $template 模板
  *
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class Application extends Service
 {

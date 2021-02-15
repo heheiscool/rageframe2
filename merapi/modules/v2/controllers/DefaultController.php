@@ -10,7 +10,7 @@ use merapi\controllers\OnAuthController;
  *
  * Class DefaultController
  * @package merapi\modules\v2\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class DefaultController extends OnAuthController
 {

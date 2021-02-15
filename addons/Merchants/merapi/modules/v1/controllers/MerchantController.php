@@ -13,7 +13,7 @@ use api\controllers\OnAuthController;
  *
  * Class MerchantController
  * @package addons\Merchants\merapi\modules\v1\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MerchantController extends OnAuthController
 {

@@ -20,7 +20,7 @@ use EasyWeChat\Kernel\Messages\NewsItem;
 /**
  * Class RuleKeywordService
  * @package addons\Wechat\services
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class RuleKeywordService extends Service
 {

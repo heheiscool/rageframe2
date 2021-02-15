@@ -12,7 +12,7 @@ use addons\RfArticle\common\models\ArticleSingle;
 /**
  * Class IndexController
  * @package addons\RfArticle\html5\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class IndexController extends BaseController
 {

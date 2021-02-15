@@ -11,7 +11,7 @@ use yii\web\UnprocessableEntityHttpException;
 /**
  * Class BindingWechatController
  * @package html5\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class BindingWechatController extends BaseController
 {

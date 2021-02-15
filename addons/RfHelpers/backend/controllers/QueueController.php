@@ -7,7 +7,7 @@ use Yii;
 /**
  * Class QueueController
  * @package addons\RfHelpers\backend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class QueueController extends BaseController
 {

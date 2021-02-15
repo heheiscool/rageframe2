@@ -14,7 +14,7 @@ use common\enums\MerchantStateEnum;
 /**
  * Class MerchantController
  * @package addons\Merchants\backend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MerchantController extends BaseController
 {

@@ -9,7 +9,7 @@ use common\models\common\ActionLog;
 /**
  * Class ActionLogJob
  * @package common\queues
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ActionLogJob extends BaseObject implements \yii\queue\JobInterface
 {

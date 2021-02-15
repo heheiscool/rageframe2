@@ -10,7 +10,7 @@ use League\OAuth2\Server\Entities\ScopeEntityInterface;
 /**
  * Class ScopeRepository
  * @package common\models\oauth2
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ScopeRepository implements ScopeRepositoryInterface
 {

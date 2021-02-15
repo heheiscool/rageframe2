@@ -15,7 +15,7 @@ use addons\TinyShop\common\enums\AccessTokenGroupEnum;
  *
  * Class ThirdPartyController
  * @package addons\Merchants\api\modules\v1\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ThirdPartyController extends OnAuthController
 {

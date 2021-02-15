@@ -11,7 +11,7 @@ use common\models\backend\Member;
 /**
  * Class MemberForm
  * @package backend\modules\base\models
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MemberForm extends Model
 {

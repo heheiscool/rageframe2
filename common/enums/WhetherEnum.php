@@ -5,7 +5,7 @@ namespace common\enums;
 /**
  * Class WhetherEnum
  * @package common\enums
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class WhetherEnum extends BaseEnum
 {

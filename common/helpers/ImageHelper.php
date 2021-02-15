@@ -9,7 +9,7 @@ use yii\helpers\Json;
 /**
  * Class ImageHelper
  * @package common\helpers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ImageHelper
 {

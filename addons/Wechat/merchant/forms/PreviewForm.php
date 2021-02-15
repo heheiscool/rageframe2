@@ -8,7 +8,7 @@ use yii\base\Model;
 /**
  * Class PreviewForm
  * @package merchant\modules\wechat\models
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class PreviewForm extends Model
 {

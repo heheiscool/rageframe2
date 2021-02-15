@@ -9,7 +9,7 @@ use common\interfaces\PayHandler;
 /**
  * Class OrderPayFrom
  * @package common\models\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class OrderPayFrom extends Model implements PayHandler
 {

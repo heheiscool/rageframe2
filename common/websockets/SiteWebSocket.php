@@ -13,7 +13,7 @@ use common\enums\StatusEnum;
 /**
  * Class SiteWebsSocket
  * @package common\websockets
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class SiteWebSocket extends BaseWebSocket
 {

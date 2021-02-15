@@ -7,7 +7,7 @@ use common\enums\BaseEnum;
 /**
  * Class MediaType
  * @package addons\Wechat\common\enums
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MediaType extends BaseEnum
 {

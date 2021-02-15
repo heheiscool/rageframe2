@@ -10,7 +10,7 @@ use common\helpers\WechatHelper;
 /**
  * Class ReceiveMsgController
  * @package addons\Wechat\html5\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ReceiveMsgController extends BaseController
 {

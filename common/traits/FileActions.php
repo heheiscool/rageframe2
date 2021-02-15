@@ -11,7 +11,7 @@ use common\models\common\Attachment;
 /**
  * Trait FileActions
  * @package common\traits
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 trait FileActions
 {

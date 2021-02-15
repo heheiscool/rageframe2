@@ -14,7 +14,7 @@ use yii\web\UnprocessableEntityHttpException;
 /**
  * Class QrController
  * @package addons\RfHelpers\backend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class QrController extends BaseController
 {

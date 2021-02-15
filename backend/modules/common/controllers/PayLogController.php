@@ -11,7 +11,7 @@ use backend\controllers\BaseController;
 /**
  * Class PayLogController
  * @package backend\modules\common\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class PayLogController extends BaseController
 {

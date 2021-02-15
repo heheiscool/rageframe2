@@ -20,7 +20,7 @@ use Overtrue\EasySms\EasySms;
 /**
  * Class SmsService
  * @package services\common
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class SmsService extends Service
 {

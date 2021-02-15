@@ -16,7 +16,7 @@ use common\models\oauth2\repository\AccessTokenRepository;
 /**
  * Class JWTAuth
  * @package oauth2\behaviors
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class JWTAuth extends Behavior
 {

@@ -10,7 +10,7 @@ use common\models\merchant\CommissionWithdraw;
 /**
  * Class CommissionWithdrawService
  * @package services\merchant
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class CommissionWithdrawService extends Service
 {

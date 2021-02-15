@@ -15,7 +15,7 @@ use addons\Merchants\common\models\SettingForm;
 /**
  * Class PromoterCommissionWithdrawController
  * @package addons\TinyDistribution\merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class CommissionWithdrawController extends BaseController
 {

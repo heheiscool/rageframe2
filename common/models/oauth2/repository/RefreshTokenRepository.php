@@ -11,7 +11,7 @@ use League\OAuth2\Server\Repositories\RefreshTokenRepositoryInterface;
 /**
  * Class RefreshTokenRepository
  * @package common\models\oauth2
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class RefreshTokenRepository implements RefreshTokenRepositoryInterface
 {

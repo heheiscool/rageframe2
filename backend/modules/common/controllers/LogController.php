@@ -13,7 +13,7 @@ use yii\data\Pagination;
 /**
  * Class LogController
  * @package backend\modules\common\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class LogController extends BaseController
 {

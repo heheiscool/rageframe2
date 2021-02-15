@@ -12,7 +12,7 @@ use common\enums\AppEnum;
 /**
  * Class MemberForm
  * @package addons\Merchants\backend\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MemberForm extends Model
 {

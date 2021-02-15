@@ -9,7 +9,7 @@ use yii\base\Model;
  *
  * Class CommissionWithdrawForm
  * @package common\models\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class CommissionWithdrawForm extends Model
 {

@@ -16,7 +16,7 @@ use common\models\forms\RechargePayFrom;
  *
  * Class PayController
  * @package api\modules\v1\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class PayController extends OnAuthController
 {

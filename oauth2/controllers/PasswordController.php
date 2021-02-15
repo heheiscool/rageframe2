@@ -14,7 +14,7 @@ use oauth2\components\Response;
  *
  * Class PasswordController
  * @package oauth2\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class PasswordController extends OnAuthController
 {

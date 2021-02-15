@@ -17,7 +17,7 @@ use addons\RfArticle\common\models\Article;
  *
  * Class ArticleController
  * @package addons\RfArticle\merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ArticleController extends BaseController
 {

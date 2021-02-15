@@ -5,7 +5,7 @@ namespace common\enums;
 /**
  * Class AppEnum
  * @package common\enums
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AppEnum extends BaseEnum
 {

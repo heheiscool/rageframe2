@@ -13,7 +13,7 @@ use addons\Wechat\common\models\FansTagMap;
 /**
  * Class FansController
  * @package addons\Wechat\merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class FansController extends BaseController
 {

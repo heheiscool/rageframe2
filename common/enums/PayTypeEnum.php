@@ -7,7 +7,7 @@ namespace common\enums;
  *
  * Class PayTypeEnum
  * @package common\enums
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class PayTypeEnum extends BaseEnum
 {

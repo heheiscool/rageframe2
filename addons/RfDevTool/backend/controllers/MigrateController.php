@@ -11,7 +11,7 @@ use jianyan\migration\components\MigrateCreate;
 /**
  * Class MigrateController
  * @package addons\RfDevTool\backend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MigrateController extends BaseController
 {

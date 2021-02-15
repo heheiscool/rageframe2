@@ -11,7 +11,7 @@ use common\helpers\ResultHelper;
  *
  * Class MainController
  * @package backend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MainController extends BaseController
 {

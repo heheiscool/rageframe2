@@ -11,7 +11,7 @@ use yii\web\NotFoundHttpException;
 /**
  * Class AnalysisController
  * @package addons\Wechat\merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AnalysisController extends Controller
 {

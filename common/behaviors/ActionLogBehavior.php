@@ -13,7 +13,7 @@ use common\models\common\ActionBehavior;
 /**
  * Class ActionLogBehavior
  * @package common\behaviors
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ActionLogBehavior extends Behavior
 {

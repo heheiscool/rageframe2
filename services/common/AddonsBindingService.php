@@ -12,7 +12,7 @@ use common\helpers\StringHelper;
 /**
  * Class AddonsBindingService
  * @package services\common
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AddonsBindingService extends Service
 {

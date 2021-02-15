@@ -9,7 +9,7 @@ use common\enums\AppEnum;
 /**
  * Class Url
  * @package common\helpers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class Url extends BaseUrl
 {

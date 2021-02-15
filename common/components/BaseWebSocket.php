@@ -16,7 +16,7 @@ use Swoole\WebSocket\Server;
  *
  * Class BaseWebSocket
  * @package common\components
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class BaseWebSocket
 {

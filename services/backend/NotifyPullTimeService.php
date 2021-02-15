@@ -8,7 +8,7 @@ use common\models\backend\NotifyPullTime;
 /**
  * Class NotifyPullTimeService
  * @package services\backend
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class NotifyPullTimeService extends Service
 {

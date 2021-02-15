@@ -13,7 +13,7 @@ use League\OAuth2\Server\Entities\AccessTokenEntityInterface;
 /**
  * Class AccessTokenRepository
  * @package common\models\oauth2
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AccessTokenRepository implements AccessTokenRepositoryInterface
 {

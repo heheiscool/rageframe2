@@ -7,7 +7,7 @@ use Overtrue\Flysystem\Cos\CosAdapter;
 /**
  * Class Cos
  * @package common\components\uploaddrive
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class Cos extends DriveInterface
 {

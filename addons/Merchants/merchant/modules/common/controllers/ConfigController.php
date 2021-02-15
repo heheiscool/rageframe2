@@ -13,7 +13,7 @@ use addons\Merchants\merchant\controllers\BaseController;
 /**
  * Class ConfigController
  * @package addons\Merchants\merchant\modules\common\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ConfigController extends BaseController
 {

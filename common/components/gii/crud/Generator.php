@@ -7,7 +7,7 @@ use Yii;
 /**
  * Class Generator
  * @package backend\components\gii\crud
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class Generator extends \yii\gii\generators\crud\Generator
 {

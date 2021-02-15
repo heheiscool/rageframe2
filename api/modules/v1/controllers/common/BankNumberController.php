@@ -10,7 +10,7 @@ use common\models\common\BankNumber;
  *
  * Class BankNumberController
  * @package api\modules\v1\controllers\common
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class BankNumberController extends OnAuthController
 {

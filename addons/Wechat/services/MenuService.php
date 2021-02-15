@@ -10,7 +10,7 @@ use common\components\Service;
 /**
  * Class MenuService
  * @package addons\Wechat\services
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MenuService extends Service
 {

@@ -7,7 +7,7 @@ use common\helpers\ArrayHelper;
 /**
  * Class BaseEnum
  * @package common\enums
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 abstract class BaseEnum
 {

@@ -5,7 +5,7 @@ namespace common\enums;
 /**
  * Class SortEnum
  * @package common\enums
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class SortEnum extends BaseEnum
 {

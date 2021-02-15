@@ -11,7 +11,7 @@ use addons\RfOnlineDoc\common\models\Doc;
 /**
  * Class DocService
  * @package addons\RfOnlineDoc\services\doc
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class DocService extends Service
 {

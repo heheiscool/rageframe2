@@ -13,7 +13,7 @@ use common\models\merchant\Merchant;
 /**
  * Class PassFrom
  * @package addons\Merchants\backend\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class PassFrom extends Model
 {

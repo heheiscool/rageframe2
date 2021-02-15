@@ -7,7 +7,7 @@ use common\models\backend\Notify;
 /**
  * Class NotifyAnnounceForm
  * @package backend\modules\base\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class NotifyAnnounceForm extends Notify
 {

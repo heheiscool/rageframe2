@@ -9,7 +9,7 @@ use common\models\common\IpBlacklist;
 /**
  * Class IpBlacklistService
  * @package services\common
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class IpBlacklistService extends Service
 {

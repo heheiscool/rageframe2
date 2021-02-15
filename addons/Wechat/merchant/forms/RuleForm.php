@@ -9,7 +9,7 @@ use addons\Wechat\common\models\Rule;
 /**
  * Class RuleForm
  * @package merchant\modules\wechat\models
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class RuleForm extends Rule
 {

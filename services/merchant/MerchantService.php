@@ -12,7 +12,7 @@ use common\models\merchant\Merchant;
  *
  * Class MerchantService
  * @package services\merchant
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MerchantService extends Service
 {

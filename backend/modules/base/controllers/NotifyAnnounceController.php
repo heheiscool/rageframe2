@@ -13,7 +13,7 @@ use backend\controllers\BaseController;
 /**
  * Class NotifyAnnounceController
  * @package backend\modules\base\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class NotifyAnnounceController extends BaseController
 {

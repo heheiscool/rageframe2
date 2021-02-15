@@ -9,7 +9,7 @@ use yii\web\NotFoundHttpException;
 /**
  * Class SiteController
  * @package oauth2\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class SiteController extends Controller
 {

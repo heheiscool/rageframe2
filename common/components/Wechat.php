@@ -10,7 +10,7 @@ use common\helpers\ArrayHelper;
 /**
  * Class Wechat
  * @package common\components
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class Wechat extends \jianyan\easywechat\Wechat
 {

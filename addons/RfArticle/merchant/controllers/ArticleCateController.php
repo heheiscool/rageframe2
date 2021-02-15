@@ -12,7 +12,7 @@ use addons\RfArticle\common\models\ArticleCate;
  *
  * Class ArticleCateController
  * @package addons\RfArticle\merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ArticleCateController extends BaseController
 {

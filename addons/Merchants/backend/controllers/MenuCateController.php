@@ -12,7 +12,7 @@ use common\enums\AppEnum;
 /**
  * Class MenuCateController
  * @package addons\Merchants\backend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MenuCateController extends BaseController
 {

@@ -13,7 +13,7 @@ use backend\controllers\BaseController;
 /**
  * Class MenuCateController
  * @package backend\modules\base\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MenuCateController extends BaseController
 {

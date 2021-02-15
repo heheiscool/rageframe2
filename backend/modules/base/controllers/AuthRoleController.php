@@ -10,7 +10,7 @@ use backend\controllers\BaseController;
 /**
  * Class AuthRoleController
  * @package backend\modules\base\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AuthRoleController extends BaseController
 {

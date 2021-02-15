@@ -16,7 +16,7 @@ use addons\Merchants\merchant\controllers\BaseController;
 /**
  * Class MemberController
  * @package merchant\modules\base\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MemberController extends BaseController
 {

@@ -12,7 +12,7 @@ use common\traits\MerchantCurd;
 /**
  * Class BankAccountController
  * @package addons\Merchants\merchant\modules\base\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class BankAccountController extends BaseController
 {

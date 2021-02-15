@@ -15,7 +15,7 @@ use common\enums\StatusEnum;
 /**
  * Class AccessTokenService
  * @package services\api
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AccessTokenService extends Service
 {

@@ -9,7 +9,7 @@ use common\models\common\ReportLog;
 /**
  * Class ReportLogService
  * @package services\common
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ReportLogService extends Service
 {

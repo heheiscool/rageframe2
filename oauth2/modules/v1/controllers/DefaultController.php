@@ -11,7 +11,7 @@ use oauth2\controllers\OnAuthController;
  * Class DefaultController
  * @package oauth2\modules\v1\controllers
  * @property \yii\db\ActiveRecord $modelClass
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class DefaultController extends OnAuthController
 {

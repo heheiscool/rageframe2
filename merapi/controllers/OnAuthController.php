@@ -14,7 +14,7 @@ use common\helpers\ResultHelper;
  * Class OnAuthController
  * @package merapi\controllers
  * @property yii\db\ActiveRecord|yii\base\Model $modelClass
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class OnAuthController extends ActiveController
 {

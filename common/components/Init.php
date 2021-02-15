@@ -13,7 +13,7 @@ use common\enums\AppEnum;
 /**
  * Class InitConfig
  * @package common\components
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class Init implements BootstrapInterface
 {

@@ -12,7 +12,7 @@ use backend\controllers\BaseController;
 /**
  * Class AuthController
  * @package backend\modules\member\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AuthController extends BaseController
 {

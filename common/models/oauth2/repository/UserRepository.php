@@ -12,7 +12,7 @@ use yii\web\UnprocessableEntityHttpException;
 /**
  * Class UserRepository
  * @package common\models\oauth2
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class UserRepository implements UserRepositoryInterface
 {

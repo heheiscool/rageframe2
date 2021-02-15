@@ -12,7 +12,7 @@ use common\helpers\ResultHelper;
  * Class OnAuthController
  * @package oauth2\controllers
  * @property yii\db\ActiveRecord|yii\base\Model $modelClass
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class OnAuthController extends ActiveController
 {

@@ -11,7 +11,7 @@ use addons\RfOnlineDoc\common\models\Doc;
 /**
  * Class DocController
  * @package addons\RfOnlineDoc\merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class DocController extends BaseController
 {

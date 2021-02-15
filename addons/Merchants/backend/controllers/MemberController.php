@@ -14,7 +14,7 @@ use addons\Merchants\backend\forms\MemberForm;
 /**
  * Class MemberController
  * @package addons\Merchants\backend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MemberController extends BaseController
 {

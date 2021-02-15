@@ -25,7 +25,7 @@ use addons\Wechat\merchant\forms\RuleForm;
 /**
  * Class AddonsController
  * @package backend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AddonsController extends Controller
 {

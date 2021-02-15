@@ -10,7 +10,7 @@ use common\interfaces\PayHandler;
 /**
  * Class RechargePayFrom
  * @package common\models\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class RechargePayFrom extends Model implements PayHandler
 {

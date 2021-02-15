@@ -13,7 +13,7 @@ use api\controllers\OnAuthController;
  * Class ArticleController
  * @package addons\RfArticle\api\controllers
  * @property \yii\db\ActiveRecord|\yii\base\Model $modelClass;
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ArticleController extends OnAuthController
 {

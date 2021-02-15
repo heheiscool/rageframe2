@@ -5,7 +5,7 @@ namespace common\helpers;
 /**
  * Class FfmpegHelper
  * @package common\helpers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class FfmpegHelper
 {

@@ -15,7 +15,7 @@ use addons\RfDevTool\common\models\ProvinceGatherLog;
 /**
  * Class ProvinceChildJob
  * @package addons\RfDevTool\common\queues
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ProvinceChildJob extends BaseObject implements JobInterface
 {

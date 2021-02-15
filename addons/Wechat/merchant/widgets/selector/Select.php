@@ -12,7 +12,7 @@ use common\helpers\Html;
 /**
  * Class Select
  * @package addons\Wechat\merchant\widgets\selector
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class Select extends InputWidget
 {

@@ -9,7 +9,7 @@ use common\models\backend\Member;
 /**
  * Class LoginForm
  * @package backend\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class LoginForm extends \common\models\forms\LoginForm
 {

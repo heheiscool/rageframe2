@@ -8,7 +8,7 @@ use addons\Wechat\merchant\forms\HistoryForm;
 /**
  * Class SettingController
  * @package addons\Wechat\merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class SettingController extends BaseController
 {

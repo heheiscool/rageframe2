@@ -12,7 +12,7 @@ use addons\RfExample\common\models\Cate;
  *
  * Class CateController
  * @package addons\RfExample\merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class CateController extends BaseController
 {

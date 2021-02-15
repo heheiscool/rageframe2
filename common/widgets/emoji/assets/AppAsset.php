@@ -7,7 +7,7 @@ use yii\web\AssetBundle;
 /**
  * Class AppAsset
  * @package common\widgets\emoji\assets
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AppAsset extends AssetBundle
 {

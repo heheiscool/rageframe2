@@ -12,7 +12,7 @@ use common\enums\StatusEnum;
  *
  * Class IndexController
  * @package addons\RfArticle\frontend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class IndexController extends BaseController
 {

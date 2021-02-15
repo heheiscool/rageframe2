@@ -17,7 +17,7 @@ use frontend\forms\ContactForm;
 /**
  * Class SiteController
  * @package frontend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class SiteController extends Controller
 {

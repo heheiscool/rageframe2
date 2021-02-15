@@ -8,7 +8,7 @@ use Yii;
 /**
  * Class WechatHelper
  * @package common\helpers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class WechatHelper
 {

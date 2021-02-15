@@ -15,7 +15,7 @@ use addons\RfOnlineDoc\common\models\Content;
 /**
  * Class ContentController
  * @package addons\RfOnlineDoc\frontend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ContentController extends BaseController
 {

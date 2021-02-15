@@ -9,7 +9,7 @@ use addons\Wechat\common\models\Qrcode;
 /**
  * Class QrcodeService
  * @package addons\Wechat\services
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class QrcodeService extends Service
 {

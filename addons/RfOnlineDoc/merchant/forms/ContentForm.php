@@ -9,7 +9,7 @@ use common\enums\StatusEnum;
 /**
  * Class ContentForm
  * @package addons\RfOnlineDoc\merchant\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ContentForm extends Content
 {

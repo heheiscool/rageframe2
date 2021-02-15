@@ -13,7 +13,7 @@ use TencentCloud\Common\Credential;
  *
  * Class TencentCloudService
  * @package services\common
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class TencentCloudService extends Service
 {

@@ -10,7 +10,7 @@ use common\helpers\ArrayHelper;
 /**
  * Class MenuProvincesService
  * @package addons\Wechat\services
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MenuProvincesService extends Service
 {

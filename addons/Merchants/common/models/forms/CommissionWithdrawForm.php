@@ -17,7 +17,7 @@ use yii\web\UnprocessableEntityHttpException;
 /**
  * Class CommissionWithdrawForm
  * @package addons\TinyDistribution\common\models\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class CommissionWithdrawForm extends Model
 {

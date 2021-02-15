@@ -10,7 +10,7 @@ use common\models\common\BankNumber;
 /**
  * Class BankNumberService
  * @package services\common
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class BankNumberService extends Service
 {

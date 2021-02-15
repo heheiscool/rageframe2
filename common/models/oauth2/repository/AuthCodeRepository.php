@@ -11,7 +11,7 @@ use League\OAuth2\Server\Repositories\AuthCodeRepositoryInterface;
 /**
  * Class AuthCodeRepository
  * @package common\models\oauth2
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AuthCodeRepository implements AuthCodeRepositoryInterface
 {

@@ -8,7 +8,7 @@ use common\models\merchant\Merchant;
 /**
  * Class MerchantCreditsLogForm
  * @package common\models\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MerchantCreditsLogForm extends Model
 {

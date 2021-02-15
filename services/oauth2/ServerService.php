@@ -14,7 +14,7 @@ use League\OAuth2\Server\CryptKey;
 /**
  * Class ServerService
  * @package services\oauth2
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ServerService extends Service
 {

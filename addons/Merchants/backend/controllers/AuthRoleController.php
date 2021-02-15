@@ -10,7 +10,7 @@ use common\enums\AppEnum;
 /**
  * Class RoleController
  * @package addons\Merchants\backend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AuthRoleController extends BaseController
 {

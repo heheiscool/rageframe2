@@ -69,7 +69,7 @@ use common\components\Service;
  * @property \services\oauth2\RefreshTokenService $oauth2RefreshToken oauth2刷新token
  * @property \services\oauth2\AuthorizationCodeService $oauth2AuthorizationCode oauth临时code
  *
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class Application extends Service
 {

@@ -16,7 +16,7 @@ use backend\controllers\BaseController;
 /**
  * Class ConfigController
  * @package backend\modules\common\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ConfigController extends BaseController
 {

@@ -13,7 +13,7 @@ use addons\Wechat\common\models\Attachment;
 /**
  * Class AttachmentNewsService
  * @package addons\Wechat\services
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AttachmentNewsService extends Service
 {

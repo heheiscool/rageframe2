@@ -13,7 +13,7 @@ use common\helpers\ExcelHelper;
  *
  * Class QrcodeStatController
  * @package addons\Wechat\merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class QrcodeStatController extends BaseController
 {

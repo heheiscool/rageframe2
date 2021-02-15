@@ -15,7 +15,7 @@ use backend\modules\member\forms\RechargeForm;
  *
  * Class MemberController
  * @package backend\modules\member\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MemberController extends BaseController
 {

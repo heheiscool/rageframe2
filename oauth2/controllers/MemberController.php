@@ -10,7 +10,7 @@ use common\traits\BaseAction;
 /**
  * Class MemberController
  * @package oauth2\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MemberController extends \yii\rest\ActiveController
 {

@@ -8,7 +8,7 @@ use common\models\common\Addons;
 /**
  * Class AddonsForm
  * @package backend\modules\common\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AddonsForm extends Addons
 {

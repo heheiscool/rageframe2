@@ -7,7 +7,7 @@ use common\models\common\Addons;
 /**
  * Class AddonsDefaultRouteEnum
  * @package common\enums
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AddonDefaultRouteEnum extends BaseEnum
 {

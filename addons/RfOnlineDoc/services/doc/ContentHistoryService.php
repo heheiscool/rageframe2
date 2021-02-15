@@ -11,7 +11,7 @@ use yii\data\Pagination;
 /**
  * Class ContentHistoryService
  * @package addons\RfOnlineDoc\services\doc
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ContentHistoryService extends Service
 {

@@ -11,7 +11,7 @@ use addons\RfArticle\common\models\ArticleSingle;
  *
  * Class ArticleSingleController
  * @package addons\RfArticle\merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ArticleSingleController extends BaseController
 {

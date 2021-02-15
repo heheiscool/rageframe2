@@ -12,7 +12,7 @@ use common\enums\MerchantStateEnum;
 /**
  * Class LoginForm
  * @package merchant\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class LoginForm extends \common\models\forms\LoginForm
 {

@@ -8,7 +8,7 @@ use yii\base\Model;
 /**
  * Class NotifyMessageForm
  * @package backend\modules\base\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class NotifyMessageForm extends Model
 {

@@ -8,7 +8,7 @@ use Psr\SimpleCache\CacheInterface;
 /**
  * Class WechatCache
  * @package common\components
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class WechatCache implements CacheInterface
 {

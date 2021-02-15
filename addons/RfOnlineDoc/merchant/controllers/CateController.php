@@ -11,7 +11,7 @@ use addons\RfOnlineDoc\common\models\Cate;
 /**
  * Class CateController
  * @package addons\RfTinyShop\merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class CateController extends BaseController
 {

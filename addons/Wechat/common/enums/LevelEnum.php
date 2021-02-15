@@ -7,7 +7,7 @@ use common\enums\BaseEnum;
 /**
  * Class LevelEnum
  * @package addons\Wechat\common\enums
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class LevelEnum extends BaseEnum
 {

@@ -14,7 +14,7 @@ use yii\web\UnprocessableEntityHttpException;
 /**
  * Class CommissionWithdrawService
  * @package services\common
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class CommissionWithdrawService extends Service
 {

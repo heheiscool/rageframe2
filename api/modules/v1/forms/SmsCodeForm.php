@@ -10,7 +10,7 @@ use common\models\common\SmsLog;
 /**
  * Class SmsCodeForm
  * @package api\modules\v1\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class SmsCodeForm extends Model
 {

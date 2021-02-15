@@ -9,7 +9,7 @@ namespace common\replaces;
  *
  * Class Command
  * @package common\replaces
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class Command extends \yii\db\Command
 {

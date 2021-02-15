@@ -9,7 +9,7 @@ use yii\base\Model;
  *
  * Class DataForm
  * @package common\models\websocket
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class DataForm extends Model
 {

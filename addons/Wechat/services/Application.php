@@ -27,7 +27,7 @@ use common\components\Service;
  * @property \addons\Wechat\services\RuleKeywordStatService $ruleKeywordStat 规则关键字统计
  * @property \addons\Wechat\services\ReplyDefaultService $replyDefault 默认回复
  *
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class Application extends Service
 {

@@ -9,7 +9,7 @@ use addons\TinyShop\common\enums\AccessTokenGroupEnum;
 /**
  * Class LoginForm
  * @package merapi\modules\v1\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class LoginForm extends \common\models\forms\LoginForm
 {

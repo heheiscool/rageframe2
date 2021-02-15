@@ -11,7 +11,7 @@ use yii\web\NotFoundHttpException;
  *
  * Class MessageController
  * @package merapi\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MessageController extends Controller
 {

@@ -20,7 +20,7 @@ use api\modules\v1\forms\RegisterForm;
  *
  * Class SiteController
  * @package api\modules\v1\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class SiteController extends OnAuthController
 {

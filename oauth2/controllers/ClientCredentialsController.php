@@ -12,7 +12,7 @@ use common\helpers\ResultHelper;
  *
  * Class ClientCredentialsController
  * @package oauth2\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ClientCredentialsController extends OnAuthController
 {

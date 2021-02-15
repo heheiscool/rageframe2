@@ -11,7 +11,7 @@ use common\models\common\Menu;
 /**
  * Class MenuController
  * @package addons\Merchants\backend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MenuController extends BaseController
 {

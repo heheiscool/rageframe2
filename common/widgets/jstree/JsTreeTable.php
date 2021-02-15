@@ -9,7 +9,7 @@ use common\widgets\jstree\assets\AppAsset;
 /**
  * Class JsTreeTable
  * @package common\widgets\jstree
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class JsTreeTable extends InputWidget
 {

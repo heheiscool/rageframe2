@@ -14,7 +14,7 @@ use merchant\forms\SignUpForm;
 /**
  * Class SiteController
  * @package merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class SiteController extends Controller
 {

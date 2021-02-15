@@ -9,7 +9,7 @@ use common\enums\StatusEnum;
 /**
  * Class TemplateService
  * @package addons\RfOnlineDoc\services\doc
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class TemplateService extends Service
 {

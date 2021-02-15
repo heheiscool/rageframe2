@@ -8,7 +8,7 @@ use yii\helpers\Json;
 /**
  * Class Stream
  * @package common\models\oauth2
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class Stream implements StreamInterface
 {

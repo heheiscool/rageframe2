@@ -11,7 +11,7 @@ use api\controllers\OnAuthController;
 /**
  * Class AdvController
  * @package addons\RfArticle\api\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AdvController extends OnAuthController
 {

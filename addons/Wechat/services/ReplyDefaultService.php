@@ -8,7 +8,7 @@ use common\components\Service;
 /**
  * Class ReplyDefaultService
  * @package addons\Wechat\services
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ReplyDefaultService extends Service
 {

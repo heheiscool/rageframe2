@@ -14,7 +14,7 @@ use common\models\forms\SignAuthForm;
  *
  * Class HttpSignAuth
  * @package api\behaviors
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class HttpSignAuth extends Behavior
 {

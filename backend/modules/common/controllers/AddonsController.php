@@ -20,7 +20,7 @@ use yii\web\UnprocessableEntityHttpException;
 /**
  * Class AddonsController
  * @package merchant\modules\common\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AddonsController extends BaseController
 {

@@ -21,7 +21,7 @@ use common\enums\WechatPayTypeEnum;
 /**
  * Class PayService
  * @package services\common
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class PayService extends Service
 {

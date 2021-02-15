@@ -11,7 +11,7 @@ use addons\Merchants\merchant\controllers\BaseController;
 /**
  * Class CreditsLogController
  * @package merchant\modules\member\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class CreditsLogController extends BaseController
 {

@@ -12,7 +12,7 @@ use common\behaviors\HttpSignAuth;
 /**
  * Class ActiveController
  * @package oauth2\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ActiveController extends \yii\rest\ActiveController
 {

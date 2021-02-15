@@ -12,7 +12,7 @@ use backend\forms\LoginForm;
 /**
  * Class SiteController
  * @package backend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class SiteController extends Controller
 {

@@ -12,7 +12,7 @@ use backend\controllers\BaseController;
 /**
  * Class ActionBehaviorController
  * @package backend\modules\common\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ActionBehaviorController extends BaseController
 {

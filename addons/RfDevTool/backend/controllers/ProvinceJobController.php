@@ -15,7 +15,7 @@ use addons\RfDevTool\common\queues\ProvinceJob as QueueJob;
 /**
  * Class ProvinceController
  * @package addons\RfDevTool\backend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ProvinceJobController extends BaseController
 {

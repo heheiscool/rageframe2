@@ -7,7 +7,7 @@ use yii\base\Model;
 /**
  * Class HistoryForm
  * @package merchant\modules\wechat\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class HistoryForm extends Model
 {

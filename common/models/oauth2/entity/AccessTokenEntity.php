@@ -10,7 +10,7 @@ use League\OAuth2\Server\Entities\Traits\EntityTrait;
 /**
  * Class AccessTokenEntity
  * @package common\models\oauth2\entity
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AccessTokenEntity implements AccessTokenEntityInterface
 {

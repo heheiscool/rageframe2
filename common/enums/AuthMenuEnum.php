@@ -5,7 +5,7 @@ namespace common\enums;
 /**
  * Class AuthMenuEnum
  * @package common\enums
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AuthMenuEnum extends BaseEnum
 {

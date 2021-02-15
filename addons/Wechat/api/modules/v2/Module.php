@@ -4,7 +4,7 @@ namespace addons\Wechat\api\modules\v2;
 
 /**
  * Class Module
- * @package addons\Wechat\api\modules\v2 * @author jianyan74 <751393839@qq.com>
+ * @package addons\Wechat\api\modules\v2 * @author heheiscool@163.com
  */
 class Module extends \yii\base\Module
 {

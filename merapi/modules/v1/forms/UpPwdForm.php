@@ -12,7 +12,7 @@ use common\enums\AccessTokenGroupEnum;
 /**
  * Class UpPwdForm
  * @package merapi\modules\v1\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class UpPwdForm extends \common\models\forms\LoginForm
 {

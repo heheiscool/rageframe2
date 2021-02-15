@@ -17,7 +17,7 @@ use yii\web\UnauthorizedHttpException;
  *
  * Class AuthRoleService
  * @package services\rbac
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AuthRoleService extends Service
 {

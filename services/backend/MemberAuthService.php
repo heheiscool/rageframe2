@@ -11,7 +11,7 @@ use yii\web\UnprocessableEntityHttpException;
 /**
  * Class MemberAuthService
  * @package services\backend
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MemberAuthService extends Service
 {

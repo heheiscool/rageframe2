@@ -8,7 +8,7 @@ use yii\helpers\Json;
 /**
  * Class ArrayHelper
  * @package common\helpers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ArrayHelper extends BaseArrayHelper
 {

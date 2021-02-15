@@ -9,7 +9,7 @@ use common\helpers\Url;
 /**
  * Class SiteController
  * @package wechat\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class SiteController extends BaseController
 {

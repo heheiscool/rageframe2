@@ -15,7 +15,7 @@ use EasyWeChat\Kernel\Messages\Article;
 /**
  * Class AttachmentService
  * @package addons\Wechat\services
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AttachmentService extends Service
 {

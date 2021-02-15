@@ -11,7 +11,7 @@ use EasyDingTalk\Robot;
 /**
  * Class PullRemindController
  * @package console\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class PullRemindController extends Controller
 {

@@ -13,7 +13,7 @@ use common\models\rbac\AuthAssignment;
  *
  * Class AuthAssignmentService
  * @package services\rbac
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AuthAssignmentService extends Service
 {

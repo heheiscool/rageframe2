@@ -8,7 +8,7 @@ use Psr\Http\Message\StreamInterface;
 /**
  * Class Response
  * @package common\models\oauth2
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class Response implements ResponseInterface
 {

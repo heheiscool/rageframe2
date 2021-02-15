@@ -5,7 +5,7 @@ namespace addons\RfDevTool\backend\controllers;
 /**
  * Class PhpInfoController
  * @package addons\RfDevTool\backend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class PhpInfoController extends BaseController
 {

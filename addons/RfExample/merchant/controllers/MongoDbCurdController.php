@@ -11,7 +11,7 @@ use addons\RfExample\common\models\MongoDbCurd;
 /**
  * Class MongoDbCurdController
  * @package addons\RfExample\merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MongoDbCurdController extends AddonsController
 {

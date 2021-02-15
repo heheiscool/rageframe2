@@ -8,7 +8,7 @@ use yii\base\BaseObject;
 /**
  * Class LogJob
  * @package common\queues
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class LogJob extends BaseObject implements \yii\queue\JobInterface
 {

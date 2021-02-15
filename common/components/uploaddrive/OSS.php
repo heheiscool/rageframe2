@@ -11,7 +11,7 @@ use Xxtime\Flysystem\Aliyun\OssAdapter;
 /**
  * Class OSS
  * @package common\components\uploaddrive
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class OSS extends DriveInterface
 {

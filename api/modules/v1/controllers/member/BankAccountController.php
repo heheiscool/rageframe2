@@ -10,7 +10,7 @@ use common\models\forms\BankAccountForm;
  *
  * Class BankAccountController
  * @package api\modules\v1\controllers\member
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class BankAccountController extends UserAuthController
 {

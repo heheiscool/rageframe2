@@ -12,7 +12,7 @@ use addons\RfExample\common\models\SettingForm;
  *
  * Class SettingController
  * @package addons\RfExample\merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class SettingController extends BaseController implements AddonsSetting
 {

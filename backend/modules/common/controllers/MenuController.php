@@ -12,7 +12,7 @@ use backend\controllers\BaseController;
 /**
  * Class MenuController
  * @package backend\modules\base\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MenuController extends BaseController
 {

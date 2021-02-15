@@ -11,7 +11,7 @@ use common\models\merchant\Member;
  *
  * Class PasswdForm
  * @package merchant\modules\base\models
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class PasswdForm extends Model
 {

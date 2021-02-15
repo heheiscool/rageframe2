@@ -7,7 +7,7 @@ use yii\base\Model;
 /**
  * Class NotifySubscriptionActionForm
  * @package backend\modules\base\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class NotifySubscriptionActionForm extends Model
 {

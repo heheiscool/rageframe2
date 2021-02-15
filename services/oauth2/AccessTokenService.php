@@ -8,7 +8,7 @@ use common\components\Service;
 /**
  * Class AccessTokenService
  * @package services\oauth2
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AccessTokenService extends Service
 {

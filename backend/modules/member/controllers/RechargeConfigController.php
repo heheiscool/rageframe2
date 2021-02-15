@@ -12,7 +12,7 @@ use backend\controllers\BaseController;
 /**
  * Class RechargeConfig
  * @package backend\modules\sys\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class RechargeConfigController extends BaseController
 {

@@ -16,7 +16,7 @@ use yii\web\NotFoundHttpException;
 /**
  * Class MerchantController
  * @package addons\Merchants\api\modules\v1\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MerchantController extends OnAuthController
 {

@@ -8,7 +8,7 @@ use common\enums\SortEnum;
 /**
  * Class MerchantSearch
  * @package addons\Merchants\common\models\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MerchantSearch extends Model
 {

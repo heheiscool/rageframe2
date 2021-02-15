@@ -11,7 +11,7 @@ use common\models\merchant\Cate;
 /**
  * Class Cate
  * @package addons\TinyShop\common\components\product
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class CateService extends Service
 {

@@ -12,7 +12,7 @@ use addons\TinyShop\common\enums\AccessTokenGroupEnum;
 /**
  * Class MobileLogin
  * @package merapi\modules\v1\models
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MobileLogin extends Model
 {

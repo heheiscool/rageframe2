@@ -11,7 +11,7 @@ use common\models\common\ConfigCate;
 /**
  * Class ConfigCateController
  * @package addons\Merchants\backend\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ConfigCateController extends BaseController
 {

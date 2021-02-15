@@ -10,7 +10,7 @@ use common\components\TrafficShaper;
  *
  * Class TrafficShaperController
  * @package console\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class TrafficShaperController extends Controller
 {

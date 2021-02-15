@@ -19,7 +19,7 @@ use common\enums\WechatPayTypeEnum;
  *
  * Class PayForm
  * @package common\models\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class PayForm extends PayLog
 {

@@ -7,7 +7,7 @@ use yii\base\Model;
 /**
  * Class QrForm
  * @package addons\RfHelpers\common\models
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class QrForm extends Model
 {

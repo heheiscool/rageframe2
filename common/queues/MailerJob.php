@@ -10,7 +10,7 @@ use yii\base\BaseObject;
  *
  * Class MailerJob
  * @package common\queues
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MailerJob extends BaseObject implements \yii\queue\JobInterface
 {

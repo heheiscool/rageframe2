@@ -10,7 +10,7 @@ use common\models\member\BankAccount;
 /**
  * Class BankAccountForm
  * @package common\models\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class BankAccountForm extends BankAccount
 {

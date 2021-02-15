@@ -7,7 +7,7 @@ use Yii;
 /**
  * Class Database
  * @package backend\modules\sys\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class Database
 {

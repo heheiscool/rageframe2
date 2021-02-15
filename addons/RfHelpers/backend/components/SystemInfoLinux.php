@@ -7,7 +7,7 @@ namespace addons\RfHelpers\backend\components;
  *
  * Class SystemInfoLinux
  * @package backend\components
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class SystemInfoLinux
 {

@@ -11,7 +11,7 @@ use common\components\Service;
 /**
  * Class MemberService
  * @package services\backend
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MemberService extends Service
 {

@@ -12,7 +12,7 @@ use GeTui\Client;
  *
  * Class GeTuiService
  * @package services\common
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class GeTuiService extends Service
 {

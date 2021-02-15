@@ -9,7 +9,7 @@ use addons\RfExample\common\models\CutImageForm;
 /**
  * Class VideoController
  * @package addons\RfExample\merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class VideoController extends BaseController
 {

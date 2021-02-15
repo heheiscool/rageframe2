@@ -15,7 +15,7 @@ use common\models\backend\NotifySubscriptionConfig;
 /**
  * Class NotifyService
  * @package services\backend
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class NotifyService extends Service
 {

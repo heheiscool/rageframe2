@@ -9,7 +9,7 @@ use common\controllers\AddonsController;
 /**
  * Class ExcelController
  * @package addons\RfExample\merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ExcelController extends AddonsController
 {

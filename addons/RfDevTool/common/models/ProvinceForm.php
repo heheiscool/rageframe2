@@ -7,7 +7,7 @@ use yii\base\Model;
 /**
  * Class ProvinceForm
  * @package addons\RfDevTool\common\models
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ProvinceForm extends Model
 {

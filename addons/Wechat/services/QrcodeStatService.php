@@ -12,7 +12,7 @@ use addons\Wechat\common\models\QrcodeStat;
 /**
  * Class QrcodeStatService
  * @package addons\Wechat\services
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class QrcodeStatService extends Service
 {

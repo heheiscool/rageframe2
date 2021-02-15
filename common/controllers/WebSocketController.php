@@ -15,7 +15,7 @@ use common\helpers\FileHelper;
  *
  * Class WebSocketController
  * @package console\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class WebSocketController extends Controller
 {

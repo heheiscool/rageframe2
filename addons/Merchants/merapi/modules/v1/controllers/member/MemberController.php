@@ -13,7 +13,7 @@ use api\controllers\OnAuthController;
  *
  * Class MemberController
  * @package addons\Merchants\api\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class MemberController extends OnAuthController
 {

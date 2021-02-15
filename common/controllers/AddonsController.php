@@ -16,7 +16,7 @@ use common\behaviors\ActionLogBehavior;
  *
  * Class AddonsController
  * @package common\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AddonsController extends Controller
 {

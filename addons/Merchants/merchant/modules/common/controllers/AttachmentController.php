@@ -12,7 +12,7 @@ use addons\Merchants\merchant\controllers\BaseController;
 /**
  * Class AttachmentController
  * @package addons\Merchants\merchant\modules\common\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AttachmentController extends BaseController
 {

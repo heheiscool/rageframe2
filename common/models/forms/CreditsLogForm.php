@@ -10,7 +10,7 @@ use common\models\member\Level;
 /**
  * Class CreditsLogForm
  * @package common\models\forms
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class CreditsLogForm extends Model
 {

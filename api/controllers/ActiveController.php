@@ -18,7 +18,7 @@ use common\behaviors\HttpSignAuth;
 /**
  * Class ActiveController
  * @package api\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class ActiveController extends \yii\rest\ActiveController
 {

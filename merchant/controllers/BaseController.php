@@ -15,7 +15,7 @@ use common\behaviors\ActionLogBehavior;
 /**
  * Class BaseController
  * @package merchant\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class BaseController extends Controller
 {

@@ -21,7 +21,7 @@ use common\models\rbac\AuthItem;
  *
  * Class AuthItemChildService
  * @package services\rbac
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class AuthItemChildService extends Service
 {

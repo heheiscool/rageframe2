@@ -11,7 +11,7 @@ use common\models\merchant\Cate;
 /**
  * Class CateController
  * @package addons\Merchants\api\modules\v1\controllers
- * @author jianyan74 <751393839@qq.com>
+ * @author heheiscool@163.com
  */
 class CateController extends OnAuthController
 {
