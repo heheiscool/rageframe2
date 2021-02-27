@@ -2,8 +2,8 @@
 
 return [
     'adminEmail' => 'admin@example.com',
-    'adminAcronym' => 'RF',
-    'adminTitle' => 'RageFrame',
+    'adminAcronym' => 'SF',
+    'adminTitle' => 'SpringFrame',
     'adminDefaultHomePage' => ['main/system'], // 默认主页
 
     /** ------ 总管理员配置 ------ **/
@@ -16,10 +16,10 @@ return [
     'user.log.except.code' => [404], // 不记录的code
 
     /** ------ 开发者信息 ------ **/
-    'exploitDeveloper' => '简言',
-    'exploitFullName' => 'RageFrame应用开发引擎',
-    'exploitOfficialWebsite' => '<a href="http://www.rageframe.com" target="_blank">www.rageframe.com</a>',
-    'exploitGitHub' => '<a href="https://github.com/jianyan74/rageframe2" target="_blank">https://github.com/jianyan74/rageframe2</a>',
+    'exploitDeveloper' => 'Day',
+    'exploitFullName' => 'SpringFrame应用开发引擎',
+    'exploitOfficialWebsite' => '<a href="" target="_blank"></a>',
+    'exploitGitHub' => '<a href="" target="_blank"></a>',
 
     /**
      * 不需要验证的路由全称
