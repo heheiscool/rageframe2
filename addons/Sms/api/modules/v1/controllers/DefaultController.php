@@ -23,8 +23,52 @@ class DefaultController extends OnAuthController
     *
     * @var array
     */
-    protected $authOptional = ['index'];
+    protected $authOptional = ['index','cool'];
 
+    protected $signOptional = [''];
+     /**
+     * @SWG\Get(path="/api/sms/v1/default/index",
+     *     tags={"Sms"},
+     *     summary="短信插件",
+     *     description="按照如下参数设置接口;
+     * 直接返回构成是否成功！",
+     *     produces={"application/json"},
+     *    @SWG\Parameter(
+     *        name="x-api-key",
+     *        type="string",
+     *        in="header",
+     *        required=false,
+     *        description="输入登录验证的access_token"
+     *     ),
+     *     @SWG\Parameter(
+     *          name="id",
+     *          type="integer", 
+     *          required=false, 
+     *          in="formData",
+     *          description="用户id"
+     *      ),
+     *     @SWG\Parameter(
+     *          name="sellingorder",
+     *          type="string", 
+     *          required=false, 
+     *          in="formData",
+     *          description="挂卖订单编号"
+     *      ),
+     *     @SWG\Parameter(
+     *          name="password",
+     *          type="string", 
+     *          required=false, 
+     *          in="formData",
+     *          description="用户支付密码"
+     *      ),
+     *     
+     *     @SWG\Response(
+     *         response = 200,
+     *         description = " success"
+     *     )
+     * )
+     *
+     */
     /**
     * 首页
     *
@@ -32,6 +76,61 @@ class DefaultController extends OnAuthController
     */
     public function actionIndex()
     {
-        return 'Hello world';
+        return 'Hello world！！！';
+    }
+
+
+
+     /**
+     * @SWG\POST(path="/api/sms/v1/default/cool",
+     *     tags={"Sms"},
+     *     summary="POST测试",
+     *     description="按照如下参数设置接口;
+     * 直接返回构成是否成功！",
+     *     produces={"application/json"},
+     *    @SWG\Parameter(
+     *        name="x-api-key",
+     *        type="string",
+     *        in="header",
+     *        required=false,
+     *        description="输入登录验证的access_token"
+     *     ),
+     *     @SWG\Parameter(
+     *          name="id",
+     *          type="integer", 
+     *          required=false, 
+     *          in="formData",
+     *          description="用户id"
+     *      ),
+     *     @SWG\Parameter(
+     *          name="sellingorder",
+     *          type="string", 
+     *          required=false, 
+     *          in="formData",
+     *          description="挂卖订单编号"
+     *      ),
+     *     @SWG\Parameter(
+     *          name="password",
+     *          type="string", 
+     *          required=false, 
+     *          in="formData",
+     *          description="用户支付密码"
+     *      ),
+     *     
+     *     @SWG\Response(
+     *         response = 200,
+     *         description = " success"
+     *     )
+     * )
+     *
+     */
+    /**
+    * 首页
+    *
+    * @return string
+    */
+    public function actionCool()
+    {
+        return 'Post Cool！！！';
     }
 }

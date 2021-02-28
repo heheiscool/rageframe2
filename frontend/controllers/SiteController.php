@@ -13,7 +13,7 @@ use frontend\forms\PasswordResetRequestForm;
 use frontend\forms\ResetPasswordForm;
 use frontend\forms\SignupForm;
 use frontend\forms\ContactForm;
-
+use yii\helpers\Url;
 /**
  * Class SiteController
  * @package frontend\controllers
@@ -69,6 +69,19 @@ class SiteController extends Controller
                 'class' => 'yii\authclient\AuthAction',
                 'successCallback' => [$this, 'successCallback'],
             ],
+            'doc' => [
+                'class' => 'light\swagger\SwaggerAction',
+                'restUrl' => Url::to(['/site/api'], true),
+            ],
+            'api' =>[
+                'class' => 'light\swagger\SwaggerApiAction',
+                'scanDir' => [
+                    Yii::getAlias('@api/controllers'),
+                    Yii::getAlias('@api/swagger'),
+                    Yii::getAlias('@api/modules/v1/controllers'),
+                    Yii::getAlias('@addons/Sms/api/modules/v1/controllers'),
+                ],
+            ]
         ];
     }
 
