@@ -28,8 +28,8 @@ class DefaultController extends OnAuthController
     protected $signOptional = [''];
      /**
      * @SWG\Get(path="/api/sms/v1/default/index",
-     *     tags={"Sms"},
-     *     summary="短信插件",
+     *     tags={"SMS"},
+     *     summary="短信插件接口-",
      *     description="按照如下参数设置接口;
      * 直接返回构成是否成功！",
      *     produces={"application/json"},
@@ -83,8 +83,8 @@ class DefaultController extends OnAuthController
 
      /**
      * @SWG\POST(path="/api/sms/v1/default/cool",
-     *     tags={"Sms"},
-     *     summary="POST测试",
+     *     tags={"SMS"},
+     *     summary="短信插件接口-",
      *     description="按照如下参数设置接口;
      * 直接返回构成是否成功！",
      *     produces={"application/json"},

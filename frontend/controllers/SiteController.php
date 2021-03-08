@@ -259,4 +259,24 @@ class SiteController extends Controller
             'title' => '系统维护中...'
         ]);
     }
+
+
+    /**
+     * test. lambda表达式
+     *
+     */
+    public function actionTest()
+    {
+        echo "=== === === ===";
+        echo "<br>";
+        $i=12;
+        $j=67;
+        $callAble = function () use($i,&$j)
+        {
+            echo "1212".$i;
+            echo "\n";
+            echo $j;
+        };
+        $callAble();
+    }
 }
